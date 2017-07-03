@@ -1,4 +1,4 @@
----
-title: titolo uno
-permalink: ./paolo.html
----
+
+### title: titolo uno
+[link](http://./paolo.html)
+
